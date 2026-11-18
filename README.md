@@ -19,7 +19,7 @@
 🐍 Main language: Python — expanding into backend, AI and full-stack engineering
 🎯 Goal: become an AI Software Engineer building intelligent, real-world systems
 🌱 Learning: OOP, Data Structures, Algorithms, Advanced Python
-🤖 Building: Jarvis — a personal AI desktop assistant (my biggest project yet)
+🤖 Building: Jarvis and Leo — a personal AI desktop assistant (my biggest project yet)
 💡 Philosophy: I don't just want to use AI tools — I want to build them
 🎯 Ask me about: Python automation, web scraping, or AI app ideas
 ```
